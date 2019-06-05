@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_parte_3_Entendendo_heranca_e_interface.iml" filepath="$PROJECT_DIR$/Java_parte_3_Entendendo_heranca_e_interface.iml" />
     </modules>
   </component>
 </project>
-
