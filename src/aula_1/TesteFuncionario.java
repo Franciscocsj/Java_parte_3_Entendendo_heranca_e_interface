@@ -14,6 +14,8 @@ public class TesteFuncionario {
         System.out.println(xico.getSalario());
         System.out.println(xico.getBonificacao());
 
+        //xico.salario = 300.0;
+
     }
 
 

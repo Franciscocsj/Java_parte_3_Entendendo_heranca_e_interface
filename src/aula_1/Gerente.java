@@ -3,7 +3,6 @@ package aula_1;
 public class Gerente extends Funcionario {
 
 
-
     private int senha;
 
     public void setSenha(int senha) {
@@ -18,9 +17,12 @@ public class Gerente extends Funcionario {
         }
     }
 
-//    public double getBonificacao() {
-//        return this.salario;
-//    }
+    public double getBonificacao() {
+        return super.getBonificacao() + super.getSalario();
+    }
 
+    //this utilizado quando faço referencia pra a variavel na propria classe
+    //super quando faço referencia para a variavel da classe mãe
+    //protected visivel apenas para as classes filhas
 
 }
